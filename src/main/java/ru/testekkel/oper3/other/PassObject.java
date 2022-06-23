@@ -1,4 +1,4 @@
-package ru.testekkel.oper3;
+package ru.testekkel.oper3.other;
 
 public class PassObject {
     static void f(Letter y){

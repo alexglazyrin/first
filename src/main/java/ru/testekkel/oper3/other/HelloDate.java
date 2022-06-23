@@ -1,4 +1,4 @@
-package ru.testekkel.oper3;
+package ru.testekkel.oper3.other;
 
 import java.util.Date;
 

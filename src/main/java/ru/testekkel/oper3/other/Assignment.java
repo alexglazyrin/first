@@ -1,4 +1,4 @@
-package ru.testekkel.oper3;
+package ru.testekkel.oper3.other;
 
 public class Assignment {
     public static void main(String[] args) {
