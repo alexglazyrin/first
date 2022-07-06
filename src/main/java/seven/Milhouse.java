@@ -1,0 +1,4 @@
+package seven;
+
+class Milhouse {
+}
