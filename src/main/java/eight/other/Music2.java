@@ -1,4 +1,4 @@
-package eight;
+package eight.other;
 
 public class Music2 {
     public static void tune(Wind i) {
